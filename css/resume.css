@@ -1,0 +1,30 @@
+body {
+  font-family: Calibri;
+}
+h1 {
+  text-align: center;
+}
+.address {
+  text-align: center;
+}
+hr {
+  width: 700px;
+}
+h2 {
+  margin: 0;
+  padding-left: 350px;
+}
+ul {
+  padding-left: 400px;
+}
+.li_head {
+  font-style: italic;
+  font-weight: bold;
+}
+.info {
+  padding-left: 400px;
+}
+.para {
+  padding-left: 400px;
+  padding-right: 350px;
+}
