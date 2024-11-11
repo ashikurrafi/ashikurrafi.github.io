@@ -4,3 +4,11 @@
     margin: 0px;
     padding: 0px;
 }
+
+body {
+    padding-top: 70px;
+}
+
+.section-offset {
+    padding-top: 70px;
+}
